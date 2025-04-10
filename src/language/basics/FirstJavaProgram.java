@@ -25,7 +25,7 @@ public class FirstJavaProgram {
 		System.out.println();
 
 /*
-* Print the content and will be in the same line. Join multiple printW
+* Print the content and will be in the same line. Join multiple print
 * statements together
 */
 		System.out.append("Harish is working in an Ecommerce website").append(",handles the functional testcases");
